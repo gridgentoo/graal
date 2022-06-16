@@ -1,3 +1,9 @@
+Реверс Инжиниринг архитектуры GraalVM
+https://drive.google.com/drive/u/0/folders/1gmd7rLer5a5JppGYtckBThVkcXnti-0G
+
+Оригинальный репозиторий
+https://github.com/oracle/graal
+
 [![GraalVM](.github/assets/logo_320x64.svg)][website]
 
 [![GraalVM downloads][badge-dl]][downloads] [![GraalVM docs][badge-docs]][docs] [![GraalVM on Slack][badge-slack]][slack] [![GraalVM on Twitter][badge-twitter]][twitter] [![GraalVM on YouTube][badge-yt]][youtube]  [![GraalVM Gate][badge-gate]][gate] [![License][badge-license]](#license)
